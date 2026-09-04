@@ -1,4 +1,4 @@
-#T-Rex Runner Clone
+#T-Rex Runner Clone 
 import pygame
 
 import random
